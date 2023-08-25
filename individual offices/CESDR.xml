@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001692958004114*5088260641228046952</id>
+	<updated>2023-08-25T10:32:09Z</updated>
+	<author>
+		<name>Sean Denzel Robenta</name>
+		<email>sean_robenta@dlsu.edu.ph</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958004114*5088260641228046952</id>
+		<updated>2023-08-25T10:32:09Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[CESDR]'/>
+		<apps:property name='label' value='DLSU Offices/[CESDR] Center for Engineering and Sustainable Development Research'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
