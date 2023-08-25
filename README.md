@@ -16,15 +16,20 @@ The **DLSU Mail Filters** repository is designed to make your Gmail experience s
 git clone https://github.com/your-username/DLSU-Mail-Filters.git
  ```
 
-2. **Choose a Filter**: Browse through the `filters` directory to find XML files corresponding to different DLSU offices. These XML files contain the filter configurations.
+or download this repository directly.
 
-3. **Import Filters to Gmail**:
+2. **Choose a Filter (recommended)**: Download the `_CONSOLIDATED (all mail).xml` file
+   ###or
+   browse through the `officers` directory to find XML files corresponding to individual DLSU offices. These XML files contain the filter configurations.
+
+6. **Import Filters to Gmail**:
 - Open Gmail in your web browser.
 - Go to `Settings` (the gear icon in the upper-right corner).
 - Navigate to the `Filters and Blocked Addresses` tab.
 - Scroll down and click on `Import filters`.
 - Select the desired XML file from the cloned repository's `filters` directory.
 - Click on the `Open File` button to import the filter.
+- If you downloaded the consolidated file, enable/disable specific offices corresponding to your preferance.
 
 Please note that this repository is currently a work in progress. New offices and filters will be added regularly to provide a comprehensive set of filters that cover various aspects of university communication.
 
