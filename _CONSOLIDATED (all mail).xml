@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001692956270436*5545598323951738026,z0000001692956684280*1224990335060311279,z0000001692957086674*0379976330462241587,z0000001692957175341*1203119683949607158,z0000001692957232144*5343246189018684974,z0000001692957423210*5225217032312113326,z0000001692957553063*3685697263090597622,z0000001692957929963*0582967368576022715,z0000001692958004114*5088260641228046952,z0000001692958080202*2380839621938215453,z0000001692958144288*5351654571575708382,z0000001692958228091*5039017249148436910,z0000001692958331551*0361302422931347623,z0000001692958373935*5199378598644126311,z0000001692958433397*1498698124711387343,z0000001692958475283*6199393044394607108,z0000001692958544327*4862934318769228116,z0000001692958582444*4837224731327748600,z0000001692958622197*3711856875459318656,z0000001692958666355*8765573597779287089,z0000001692958751942*2644090032369537320</id>
+	<updated>2023-08-25T10:33:30Z</updated>
+	<author>
+		<name>Sean Denzel Robenta</name>
+		<email>sean_robenta@dlsu.edu.ph</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692956270436*5545598323951738026</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[AARO]'/>
+		<apps:property name='label' value='DLSU Offices/[AARO] Advancement &amp; Alumni Relations Office'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692956684280*1224990335060311279</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[MATHEMATICS AND STATISTICS]'/>
+		<apps:property name='label' value='DLSU Offices/[MATHEMATICS AND STATISTICS] Department of Mathematics and Statistics'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692957086674*0379976330462241587</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[COMMUNICATION]'/>
+		<apps:property name='label' value='DLSU Offices/[COMMUNICATION] Department of Communication'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692957175341*1203119683949607158</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[COS]'/>
+		<apps:property name='label' value='DLSU Offices/[COS] College of Science'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692957232144*5343246189018684974</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[ISE]'/>
+		<apps:property name='label' value='DLSU Offices/[ISE] Industrial and Systems Engineering Department'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692957423210*5225217032312113326</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[OCD]'/>
+		<apps:property name='label' value='DLSU Offices/[OCD] Office of Campus Development'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692957553063*3685697263090597622</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[OSD]'/>
+		<apps:property name='label' value='DLSU Offices/[OSD] Office of Sports Development'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692957929963*0582967368576022715</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[BAGCED]'/>
+		<apps:property name='label' value='DLSU Offices/[BAGCED] Br. Andrew Gonzalez FSC College of Education'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958004114*5088260641228046952</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[CESDR]'/>
+		<apps:property name='label' value='DLSU Offices/[CESDR] Center for Engineering and Sustainable Development Research'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958080202*2380839621938215453</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[DELM]'/>
+		<apps:property name='label' value='DLSU Offices/[DELM] Department of Educational Leadership and Management'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958144288*5351654571575708382</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[SOE]'/>
+		<apps:property name='label' value='DLSU Offices/[SOE] School of Economics'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958228091*5039017249148436910</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[LSEED]'/>
+		<apps:property name='label' value='DLSU Offices/[LSEED] Lasallian Social Enterprise for Economic Development Center'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958331551*0361302422931347623</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[DAC]'/>
+		<apps:property name='label' value='DLSU Offices/[DAC] Department of Accountancy'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958373935*5199378598644126311</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[OFFICE OF THE PRESIDENT]'/>
+		<apps:property name='label' value='DLSU Offices/[OFFICE OF THE PRESIDENT] Office of the President'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958433397*1498698124711387343</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[STRATCOM]'/>
+		<apps:property name='label' value='DLSU Offices/[STRATCOM] Strategic Communications Office'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958475283*6199393044394607108</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[DSE]'/>
+		<apps:property name='label' value='DLSU Offices/[DSE] Department of Science Education'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958544327*4862934318769228116</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[DLIT]'/>
+		<apps:property name='label' value='DLSU Offices/[DLIT] Department of Literature'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958582444*4837224731327748600</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[DIS]'/>
+		<apps:property name='label' value='DLSU Offices/[DIS] Department of International Studies'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958622197*3711856875459318656</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[BNSCWC]'/>
+		<apps:property name='label' value='DLSU Offices/[BNSCWC] Bienvenido N. Santos Creative Writing Center'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958666355*8765573597779287089</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[DFM]'/>
+		<apps:property name='label' value='DLSU Offices/[DFM] Department of Financial Management'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001692958751942*2644090032369537320</id>
+		<updated>2023-08-25T10:33:30Z</updated>
+		<content></content>
+		<apps:property name='subject' value='[OUR]'/>
+		<apps:property name='label' value='DLSU Offices/[OUR] Office of the University Registrar'/>
+		<apps:property name='shouldMarkAsRead' value='true'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_notification'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
