@@ -8,6 +8,29 @@ Welcome to the **DLSU Mail Filters** GitHub repository! 📧
 
 The **DLSU Mail Filters** repository is designed to make your Gmail experience smoother and more organized, especially when dealing with a flood of emails from different offices within De La Salle University. This repository contains a collection of XML files that can be easily imported into your Gmail account to set up filters for sorting and managing your incoming emails.
 
+## Offices Included (As of: 8/29/2023)
+- AARO
+- MATHEMATICS AND STATISTICS
+- COMMUNICATION
+- COS
+- ISE
+- OCD
+- OSD
+- BAGCED
+- CESDR
+- DELM
+- SOE
+- LSEED
+- DAC
+- OFFICE OF THE PRESIDENT
+- STRATCOM
+- DSE
+- DLIT
+- DIS
+- BNSCWC
+- DFM
+- OUR
+
 ## How to Use
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
